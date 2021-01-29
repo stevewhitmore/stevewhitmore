@@ -1,8 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Steve Whitmore</h1>
+<h3 align="center">I'm a full-stack developer specializing in frontend technologies by day, FOSS enthusiast and avid Linux fan by night.</h3>
 
-I'm a full-stack developer specializing in frontend technologies by day, FOSS enthusiast and avid Linux fan by night.
-
-#### Languages
+#### Main Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
@@ -14,7 +13,7 @@ I'm a full-stack developer specializing in frontend technologies by day, FOSS en
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
-#### Tools
+#### Tools Currently Using
 
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=red)
 ![Vue.js](https://img.shields.io/badge/-VueJS-fff?style=flat&logo=vue.js&logoColor=green)
