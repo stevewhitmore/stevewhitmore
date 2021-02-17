@@ -25,9 +25,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 
-
-![stats](https://github-readme-stats.vercel.app/api?username=stevewhitmore&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite)
-
 <!--
 **stevewhitmore/stevewhitmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
