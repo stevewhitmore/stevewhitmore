@@ -1,6 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Steve Whitmore</h1>
-<h3 align="center">I'm a full-stack developer specializing in frontend technologies by day, FOSS enthusiast and avid Linux fan by night.</h3>
-
 #### Main Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
